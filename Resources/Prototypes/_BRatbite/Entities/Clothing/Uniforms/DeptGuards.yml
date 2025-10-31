@@ -5,21 +5,9 @@
   description: A jumpsuit made of strong material, providing robust protection.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Medward.rsi
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Medward.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Medward.rsi
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: inhand-left
-        color: "#C12D30"
-        sprite: _BRatbite/Clothing/Uniforms
-      - state: overlay-inhand-left
-      right:
-      - state: inhand-right
-        color: "#C12D30"
-        sprite: _BRatbite/Clothing/Uniforms
-      - state: overlay-inhand-right
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Medward.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseSecurityContraband]
@@ -28,21 +16,10 @@
   description: A jumpsuit made of strong material, providing robust protection.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Cargowatch.rsi
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Cargowatch.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Cargowatch.rsi
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: inhand-left
-        color: "#C12D30"
-        sprite: _BRatbite/Clothing/Uniforms
-      - state: overlay-inhand-left
-      right:
-      - state: inhand-right
-        color: "#C12D30"
-        sprite: _BRatbite/Clothing/Uniforms
-      - state: overlay-inhand-right
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Cargowatch.rsi
+
 
 - type: entity
   parent: [ClothingUniformBase, BaseSecurityContraband]
@@ -51,21 +28,10 @@
   description: A jumpsuit made of strong material, providing robust protection.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Scicurity.rsi
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Scicurity.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Scicurity.rsi
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: inhand-left
-        color: "#C12D30"
-        sprite: Clothing/Uniforms/Jumpsuit/color.rsi
-      - state: overlay-inhand-left
-      right:
-      - state: inhand-right
-        color: "#C12D30"
-        sprite: Clothing/Uniforms/Jumpsuit/color.rsi
-      - state: overlay-inhand-right
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Scicurity.rsi
+
 
 - type: entity
   parent: [ClothingUniformBase, BaseSecurityContraband]
@@ -74,18 +40,6 @@
   description: A jumpsuit made of strong material, providing robust protection.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Engisentry.rsi
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Engisentry.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/DeptGuards/Engisentry.rsi
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: inhand-left
-        color: "#C12D30"
-        sprite: Clothing/Uniforms/Jumpsuit/color.rsi
-      - state: overlay-inhand-left
-      right:
-      - state: inhand-right
-        color: "#C12D30"
-        sprite: Clothing/Uniforms/Jumpsuit/color.rsi
-      - state: overlay-inhand-right
+    sprite: _BRatBites/Clothing/Uniforms/DeptGuards/Engisentry.rsi

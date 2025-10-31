@@ -2,7 +2,7 @@
   parent: JobIcon
   id: JobIconRSO
   icon:
-    sprite: /Textures/_BRatBite/Interface/Misc/job_icons.rsi
+    sprite: /Textures/_BRatBites/Interface/Misc/job_icons.rsi
     state: RedsightOverseer
   jobName: job-name-redsightoverseer
 
@@ -10,7 +10,7 @@
   parent: JobIcon
   id: JobIconMedicalOrderly
   icon:
-    sprite: /Textures/_BRatBite/Interface/Misc/job_icons.rsi
+    sprite: /Textures/_BRatBites/Interface/Misc/job_icons.rsi
     state: MedicalOrderly
   jobName: job-name-medicalorderly
 
@@ -18,7 +18,7 @@
   parent: JobIcon
   id: JobIconScicurityGuard
   icon:
-    sprite: /Textures/_BRatBite/Interface/Misc/job_icons.rsi
+    sprite: /Textures/_BRatBites/Interface/Misc/job_icons.rsi
     state: ScicurityGuard
   jobName: job-name-scicurityguard
 
@@ -26,7 +26,7 @@
   parent: JobIcon
   id: JobIconCargoInsurance
   icon:
-    sprite: /Textures/_BRatBite/Interface/Misc/job_icons.rsi
+    sprite: /Textures/_BRatBites/Interface/Misc/job_icons.rsi
     state: CargoInsurance
   jobName: job-name-CargoInsurance
 
@@ -34,6 +34,6 @@
   parent: JobIcon
   id: JobIconEngiSentry
   icon:
-    sprite: /Textures/_BRatBite/Interface/Misc/job_icons.rsi
+    sprite: /Textures/_BRatBites/Interface/Misc/job_icons.rsi
     state: EngiSentry
   jobName: job-name-EngiSentry
